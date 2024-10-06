@@ -1,4 +1,4 @@
-#  Providing bottleneck insights for local restaurant .
+#  Providing operational insights for local restaurant .
 
 ### Dashboard Link : 
 
