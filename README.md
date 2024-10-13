@@ -35,6 +35,14 @@ A local restaurant has 2 branches in two localtion. Based on their POS and Times
            - Transactions
 
 - Step 9 : Answering Business questions --
+### Ad Hoc question 1 : Identify peak business hour or when do we receive most orders  ? Mainly identify based on location & weekdays .
+![Screenshot 2024-10-13 202128](https://github.com/user-attachments/assets/59824b43-611c-4cd6-9f5f-3c6f71ffc2d4)
+
+- Our peak business hour is (12 PM-6 PM) , more specifically (12 PM - 3 PM).
+- Almost 67% of orders are placed between  (12 PM-6 PM) and overall  almost 47% of orders placed between (12 PM - 3 PM).
+- We can see little anomaly in Chittagong precisely in early morning hour (6AM-9AM) ,where Chittagong is having more orders than Dhaka.
+
+
 ## Dashboard
           
           
