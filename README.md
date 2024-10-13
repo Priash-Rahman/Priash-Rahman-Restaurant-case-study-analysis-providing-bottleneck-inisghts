@@ -1,10 +1,10 @@
-#  Providing operational insights for local restaurant .
+#  Providing bottleneck insights for local restaurant .
 
 ### Dashboard Link : 
 
 ## Problem Statement
 
-A local restaurant has 2 branches in two localtion. Based on their sales data they want to find  out if there are opportunitues for cost cutting or if their is any bottleneck in their staffing operation.
+A local restaurant has 2 branches in two localtion. Based on their POS and Timesheet data they want to find  out if there are opportunitues for cost cutting or if their is any bottleneck in their staffing operation.
 
 **The consumer of this project or Dashboard will be the local branch manager who doesn,t have good command over finance but has great exprience over hospitallity domain and can understand his own operation well.
 
@@ -12,19 +12,29 @@ A local restaurant has 2 branches in two localtion. Based on their sales data th
 
 - Step 1 : Load data into Power query , dataset is a csv file.
 - Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
-- Step 3 : Also since by default, profile will be opened only for 1000 rows so we need to select "column profiling based on entire dataset".
-- Step 4 : Created a dimension table for brands  to normalize data & merged brand_id to fact survey table .
+- Step 3 : From timesheet table separated shift duration , total hours worked from shift   duration 
+- Step 4 : From shift duration  segmented hours after 9 PM and hours before 8 AM to find insight about staffing operation.
+- Step 4 : Created a separate date column .
 
 
 
            
 - Step 8 :DAX measures created for comprehensive & robust analysis and to create necessary kpi's .
            
-           -Female respondents = CALCULATE([Total respondents],dim_repondents[Gender]="Female").
-           -Male respondents = CALCULATE([Total respondents],dim_repondents[Gender]="Male"). 
-           -Respondents % = DIVIDE([Total respondents],CALCULATE([Total respondents],ALL('fact_survey_responses')))
-           -Total respondents = COUNTROWS(fact_survey_responses)
+           - Avg shift per day
+           - COGS 
+           - Employee to sales ratio 
+           - Employees
+           - Gross Profit
+           - Net Profit 
+           - Net Revenue
+           - Products
+           - Shifts
+           - #Orders
+           - Total sales
+           - Transactions
 
+- Step 9 : Answering Business questions --
 ## Dashboard
           
           
