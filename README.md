@@ -1,6 +1,6 @@
 #  Providing bottleneck insights for local restaurant .
 
-### Dashboard Link : 
+### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMDZlYWMyNzctZDg5OC00NjQ4LWEzZDEtNjE0ZDNiMzNkMjViIiwidCI6Ijg2OTY0MTdiLTM1NDgtNDFjNC04NTU3LWE0ZWRjN2U4NTQ4MSIsImMiOjEwfQ%3D%3D
 
 ## Problem Statement
 
