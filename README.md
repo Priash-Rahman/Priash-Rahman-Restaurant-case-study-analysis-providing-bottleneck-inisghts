@@ -46,8 +46,8 @@ A local restaurant has 2 branches in two localtion. Based on their POS and Times
 ## Dashboard
           
           
-![Screenshot 2024-09-29 192316](https://github.com/user-attachments/assets/9dedcf08-c40a-414b-89ab-c269b88da8df)
+![Screenshot 2024-11-12 190919](https://github.com/user-attachments/assets/8214322e-5f33-4f6f-99df-6f285353fc22)
 ![Screenshot 2024-09-29 192332](https://github.com/user-attachments/assets/4182ed21-4cb1-4a53-b67e-5bd2f539f82e)
-![Screenshot 2024-09-29 192400](https://github.com/user-attachments/assets/56f10bd5-6f90-4bc6-bd55-c1d10407bc32)
+![Screenshot 2024-11-12 190959](https://github.com/user-attachments/assets/8540ac2e-72b6-4028-91de-8f15ed1441ba)
  
 
